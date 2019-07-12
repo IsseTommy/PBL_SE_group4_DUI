@@ -2,8 +2,7 @@
 ## By PBL&SE Group4
 ---
 
-Please Install Pod file before runing 
-On terminal please run following command
+On terminal please run following command before running this app
 
 ```
 pod install
